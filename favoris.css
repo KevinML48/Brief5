@@ -1,0 +1,66 @@
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=Unbounded:wght@200&display=swap');
+
+body {
+    background-color: blueviolet;
+}
+.card {
+    margin: 25px;
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+
+.card-title {
+    cursor: pointer;
+	font-family: 'Montserrat', sans-serif;
+	font-weight: 900;
+	font-size: 15px;
+	text-transform: uppercase;
+	color: rgb(0, 0, 0);
+	transition : all 0.3s ease-out;
+}
+
+p {
+    cursor: pointer;
+	font-family: 'Montserrat', sans-serif;
+	font-weight: 900;
+	font-size: 12px;
+	text-transform: uppercase;
+	color: rgb(60, 0, 255);
+	transition : all 0.3s ease-out; 
+}
+
+.text-recherche {
+    cursor: pointer;
+	font-family: 'Montserrat', sans-serif;
+	font-weight: 900;
+	font-size: 15px;
+	text-transform: uppercase;
+	color: rgb(244, 10, 10);
+	transition : all 0.3s ease-out;
+}
+
+
+.btn {
+        margin: 10px;
+    font-family: 'Montserrat', sans-serif;
+	font-weight: 900;
+	text-transform: uppercase;
+	letter-spacing: 2px;
+	color: rgb(87, 82, 231);
+	transition : all 0.3s ease-out;
+}
+
+.btn a {
+	text-decoration: none;
+}
+
+.card-body-2 {
+    border-radius: solid 2px red;
+    background-color: black;
+    color: blue;
+}
+
+#bvn {
+    font-size: 25px;
+    color: black;
+}
